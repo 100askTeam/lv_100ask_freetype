@@ -1,0 +1,6 @@
+[submodule "freetype-windows-binaries"]
+	path = freetype-windows-binaries
+	url = https://github.com/ubawurinna/freetype-windows-binaries.git
+[submodule "esp_freetype"]
+	path = esp_freetype
+	url = https://github.com/100askTeam/esp_freetype.git
